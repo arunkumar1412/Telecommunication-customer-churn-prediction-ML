@@ -8,18 +8,37 @@ An Interpretable Machine Learning Framework for Customer Segmentation and Churn 
 
 This project develops machine learning models to predict customer churn and identify key customer segments in the telecommunications industry.
 
-## Skills Demonstrated
+## Model Performance
 
-- Python
-- SQL
-- Data Cleaning
-- Exploratory Data Analysis
-- Machine Learning
-- Customer Segmentation
+### Accuracy Comparison
+
+| Model | Accuracy |
+|---------|---------|
+| Logistic Regression | 78.68% |
+| Random Forest | 79.25% |
+| XGBoost | 77.33% |
+
+**Best Performing Model:** Random Forest (79.25%)
+
+## Algorithms Used
+
+- Logistic Regression
 - Random Forest
 - XGBoost
-- SHAP Explainability
-- Predictive Analytics
+- K-Means Clustering
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Skills Demonstrated
 
   ## Project Visualizations
 
