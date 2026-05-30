@@ -21,6 +21,20 @@ This project develops machine learning models to predict customer churn and iden
 - SHAP Explainability
 - Predictive Analytics
 
+  ## Project Visualizations
+
+### Exploratory Data Analysis
+![EDA](Exploratory%20Data%20Analysis.png)
+
+### Feature Importance
+![Feature Importance](Feature%20importance.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion%20matrix.png)
+
+### ROC Curve
+![ROC Curve](Roc_curve.png)
+
 ## Author
 
 Arun Kumar Kaliyaperumal
