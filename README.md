@@ -27,4 +27,4 @@ Arun Kumar Kaliyaperumal
 
 MSc Big Data and Data Science Technology with Advanced Practice
 
-Northumbria University, Newcastle upon Tyne
+Northumbria University, 
